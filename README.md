@@ -128,13 +128,13 @@ Markdown Preview App
 
 | Dark Theme                                 | Light Theme                                  |
 | ------------------------------------------ | -------------------------------------------- |
-| ![Desktop Dark](/Desktop-preview-Dark.PNG) | ![Desktop Light](/Desktop-preview-Light.PNG) |
+| ![Desktop Dark](public/Desktop-preview-Dark.PNG) | ![Desktop Light](public/Desktop-preview-Light.PNG) |
 
 ### Mobile
 
 | Dark Theme                               | Light Theme                                |
 | ---------------------------------------- | ------------------------------------------ |
-| ![Mobile Dark](/Mobile-preview-Dark.PNG) | ![Mobile Light](/Mobile-preview-Light.PNG) |
+| ![Mobile Dark](public/Mobile-preview-Dark.PNG) | ![Mobile Light](public/Mobile-preview-Light.PNG) |
 
 ---
 
