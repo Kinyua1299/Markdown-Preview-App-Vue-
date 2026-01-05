@@ -37,7 +37,7 @@ It provides a split-screen interface where you can write Markdown and view a **r
 ### Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/markdown-preview-app.git
+git clone https://github.com/Kinyua1299/Markdown-Preview-App-Vue-
 cd markdown-preview-app
 npm install
 ```
