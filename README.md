@@ -62,30 +62,38 @@ npm run preview
 ## Project Structure
 
 ```plaintext
-markdown-preview-app/
-├── public/
-│   ├── Desktop-preview-Dark.PNG
-│   ├── Desktop-preview-Light.PNG
-│   ├── Mobile-preview-Dark.PNG
-│   └── Mobile-preview-Light.PNG
-├── src/
-│   ├── __tests__/
-│   │   └── EditorPage.test.ts
-│   ├── components/
-│   │   ├── EditorPage.vue
-│   │   ├── ErrorBoundary.vue
-│   │   ├── ErrorTest.vue
-│   │   ├── Home.vue
-│   │   └── NotFound.vue
-│   ├── App.vue
-│   ├── index.css
-│   └── main.ts
+Markdown Preview App
 ├── .gitignore
+├── index.html
 ├── package.json
+├── pnpm-lock.yaml
 ├── postcss.config.cjs
-├── tailwind.config.cjs
-├── vite.config.js
-└── README.md
+├── public
+│   ├── Desktop-preview-Dark.PNG
+│   ├── Desktop-preview-Light.PNG
+│   ├── Mobile-preview-Dark.PNG
+│   └── Mobile-preview-Light.PNG
+├── README.md
+├── src
+│   ├── App.vue
+│   ├── assets
+│   ├── components
+│   │   └── ErrorBoundary.vue
+│   ├── index.css
+│   ├── main.ts
+│   ├── router
+│   │   └── index.ts
+│   ├── __tests__
+│   │   └── EditorPage.test.ts
+│   └── views
+│       ├── EditorPage.vue
+│       ├── ErrorTest.vue
+│       ├── Home.vue
+│       └── NotFound.vue
+├── tailwind.config.mjs
+└── vite.config.js
+
+
 ```
 
 ---
@@ -154,5 +162,4 @@ markdown-preview-app/
 MIT License © 2026 **King**
 
 ---
- 
-
+  
