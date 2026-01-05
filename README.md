@@ -56,7 +56,9 @@ Then open [http://localhost:5173/](http://localhost:5173/)
 npm run build
 npm run preview
 ```
-
+---
+### Online deployed using Vercel
+Use this link: [https://markdown-preview-app-vue.vercel.app/](https://markdown-preview-app-vue.vercel.app/)
 ---
 
 ## Project Structure
